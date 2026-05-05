@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>métacier</MetaSteel.label>
+  <MetaSteel.description>Une allotropie de l'acier d'une densité contre nature, obtenue à partir de dix lingots ordinaires par un procédé de forge qu'aucun métallurgiste vivant ne comprend pleinement. La recette ne survit que sous forme de notes marginales dans un carnet à demi brûlé ; les forgerons qui la suivent rapportent que le lingot final pèse légèrement plus que l'acier qui y a été consacré.</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>métacier</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>métamétacier</MetaMetaSteel.label>
+  <MetaMetaSteel.description>De l'acier plié sur de l'acier plié. Cent unités d'acier brut sont consommées pour produire un seul lingot, la majeure partie de la masse étant apparemment perdue dans un processus que les notes survivantes décrivent uniquement comme « amincissement ». Les morceaux de métamétacier bourdonnent faiblement lorsqu'on les frappe.</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>métamétacier</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>métamétamétacier</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>L'étape la plus profonde connue de la récursion. Mille unités d'acier brut sont sacrifiées pour un seul lingot fini ; aucun forgeron ne décrit la procédure de la même manière, et plusieurs refusent même d'en parler. Le résultat est si dense qu'il semble boire la lumière du feu.</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>métamétamétacier</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

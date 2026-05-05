@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RecipeDef>
+    <defName>Make_MetaSteel</defName>
+    <label>make metasteel</label>
+    <description>Refine 10 raw steel into a single ingot of metasteel via the half-remembered process.</description>
+    <jobString>Smithing metasteel.</jobString>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Smith</effectWorking>
+    <soundWorking>Recipe_Smith</soundWorking>
+    <workAmount>200</workAmount>
+    <recipeUsers>
+      <li>FueledSmithy</li>
+      <li>ElectricSmithy</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <MetaSteel>1</MetaSteel>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_MetaMetaSteel</defName>
+    <label>make metametasteel</label>
+    <description>Compress ten ingots of metasteel into a single ingot of metametasteel. The notes are clearer about what to do than about what is actually happening.</description>
+    <jobString>Smithing metametasteel.</jobString>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Smith</effectWorking>
+    <soundWorking>Recipe_Smith</soundWorking>
+    <workAmount>200</workAmount>
+    <recipeUsers>
+      <li>FueledSmithy</li>
+      <li>ElectricSmithy</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MetaSteel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MetaSteel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <MetaMetaSteel>1</MetaMetaSteel>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_MetaMetaMetaSteel</defName>
+    <label>make metametametasteel</label>
+    <description>Take the recursion to its final known stage: ten ingots of metametasteel folded down to one of metametametasteel. Most smiths only attempt this once.</description>
+    <jobString>Smithing metametametasteel.</jobString>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Smith</effectWorking>
+    <soundWorking>Recipe_Smith</soundWorking>
+    <workAmount>200</workAmount>
+    <recipeUsers>
+      <li>FueledSmithy</li>
+      <li>ElectricSmithy</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MetaMetaSteel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MetaMetaSteel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <MetaMetaMetaSteel>1</MetaMetaMetaSteel>
+    </products>
+  </RecipeDef>
+
+</Defs>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>MetaSteel</name>
+  <author>CoffeeGhost</author>
+  <packageId>coffeeghost.metasteel</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>[English]
+Adds three tiered metals - MetaSteel, MetaMetaSteel, and MetaMetaMetaSteel - refined from raw Steel through a mysterious, labor-intensive forging process. Each tier doubles market value, max hit points, sharp/blunt/heat armor, cold insulation, and melee blunt/sharp damage over the prior. Crafted at a Fueled or Electric Smithy. Not stocked by traders.
+
+[Русский]
+Добавляет три уровневых металла - метасталь, метаметасталь и метаметаметасталь - выплавляемых из обычной стали посредством таинственного, трудоёмкого процесса ковки. Каждый уровень удваивает рыночную стоимость, максимальное здоровье, броню (режущую/тупую/тепловую), теплоизоляцию от холода и режущий/тупой урон в ближнем бою относительно предыдущего. Изготавливается на топливной или электрической кузнице. Торговцы не возят их с собой.
+
+[简体中文]
+添加三种分层金属——元钢、元元钢和元元元钢——通过一种神秘且劳动密集的锻造工艺从原始钢中提炼而成。每个等级都将前一等级的市场价值、最大生命值、护甲（锋利/钝击/灼热）、御寒能力以及近战钝击/锋利伤害翻倍。可在燃料锻造台或电力锻造台制作。商人不会出售。
+
+[Español]
+Añade tres metales por niveles - metaacero, metametaacero y metametametaacero - refinados a partir de acero crudo mediante un misterioso y laborioso proceso de forja. Cada nivel duplica el valor de mercado, los puntos de vida máximos, la armadura (cortante/contundente/calor), el aislamiento frente al frío y el daño cuerpo a cuerpo cortante/contundente del anterior. Se fabrica en una fragua de combustible o eléctrica. Los mercaderes no la comercian.
+
+[Português]
+Adiciona três metais em níveis - metaaço, metametaaço e metametametaaço - refinados a partir de aço bruto através de um misterioso e trabalhoso processo de forja. Cada nível duplica o valor de mercado, os pontos de vida máximos, a armadura (cortante/contundente/calor), o isolamento contra o frio e o dano corpo a corpo contundente/cortante do nível anterior. Fabricado numa forja a combustível ou eléctrica. Os mercadores não o comercializam.
+
+[日本語]
+3段階の金属——メタスチール、メタメタスチール、メタメタメタスチール——を追加します。神秘的で手間のかかる鍛造工程によって原料の鋼から精錬されます。各段階で、前段階の市場価値、最大耐久値、装甲（鋭利/鈍器/熱）、防寒断熱、近接の鋭利・鈍器ダメージが倍になります。燃料式鍛造台または電気式鍛造台で作成。商人は取り扱いません。
+
+[Français]
+Ajoute trois métaux à paliers - métacier, métamétacier et métamétamétacier - raffinés à partir d'acier brut par un procédé de forge mystérieux et laborieux. Chaque palier double la valeur marchande, les points de vie maximum, l'armure (perforation/contondant/chaleur), l'isolation contre le froid et les dégâts de mêlée perforants/contondants du précédent. Fabriqué dans une forge à combustible ou électrique. Les marchands ne le proposent pas.
+
+[Deutsch]
+Fügt drei gestaffelte Metalle hinzu - Metastahl, Metametastahl und Metametametastahl -, die aus rohem Stahl durch ein geheimnisvolles, arbeitsintensives Schmiedeverfahren raffiniert werden. Jede Stufe verdoppelt Marktwert, maximale Trefferpunkte, Rüstung (scharf/stumpf/Hitze), Kälteisolierung sowie stumpfen/scharfen Nahkampfschaden gegenüber der vorherigen Stufe. Hergestellt an einer befeuerten oder elektrischen Schmiede. Wird von Händlern nicht geführt.</description>
+</ModMetaData>

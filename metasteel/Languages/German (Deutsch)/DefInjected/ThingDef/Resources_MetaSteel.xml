@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>Metastahl</MetaSteel.label>
+  <MetaSteel.description>Eine unnatürlich dichte Allotropie des Stahls, gewonnen aus zehn gewöhnlichen Barren durch ein Schmiedeverfahren, das kein lebender Metallurge vollständig versteht. Das Rezept überlebt nur als Randnotizen in einem halb verbrannten Notizbuch; Schmiede, die ihm folgen, berichten, dass der fertige Barren etwas mehr wiegt als der Stahl, der hineingeflossen ist.</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>Metastahl</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>Metametastahl</MetaMetaSteel.label>
+  <MetaMetaSteel.description>Stahl, der auf gefalteten Stahl gefaltet wurde. Hundert Einheiten Rohstahl werden verbraucht, um einen einzigen Barren zu produzieren, wobei der größte Teil der Masse offenbar in einem Prozess verloren geht, den die überlieferten Notizen nur als »Verdünnung« beschreiben. Stücke von Metametastahl summen leise, wenn sie geschlagen werden.</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>Metametastahl</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>Metametametastahl</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>Die tiefste bekannte Stufe der Rekursion. Tausend Einheiten Rohstahl werden für einen einzigen fertigen Barren geopfert; keine zwei Schmiede beschreiben das Verfahren auf die gleiche Weise, und einige weigern sich, überhaupt darüber zu sprechen. Das Ergebnis ist so dicht, dass es das Licht des Feuers zu trinken scheint.</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>Metametametastahl</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

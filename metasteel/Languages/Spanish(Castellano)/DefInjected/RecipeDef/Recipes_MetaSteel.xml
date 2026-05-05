@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>hacer metaacero</Make_MetaSteel.label>
+  <Make_MetaSteel.description>Refinar 10 unidades de acero crudo en un único lingote de metaacero a través del proceso a medio recordar.</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>Forjando metaacero.</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>hacer metametaacero</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>Comprimir diez lingotes de metaacero en un único lingote de metametaacero. Las notas son más claras sobre qué hacer que sobre qué está sucediendo realmente.</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>Forjando metametaacero.</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>hacer metametametaacero</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>Llevar la recursión a su etapa final conocida: diez lingotes de metametaacero plegados en uno de metametametaacero. La mayoría de los herreros solo lo intentan una vez.</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>Forjando metametametaacero.</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>

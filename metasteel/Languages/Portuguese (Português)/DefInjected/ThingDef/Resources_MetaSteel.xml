@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>metaaço</MetaSteel.label>
+  <MetaSteel.description>Uma alotropia de aço extraordinariamente densa, extraída de dez lingotes comuns através de um procedimento de forja que nenhum metalurgista vivo compreende totalmente. A receita sobrevive apenas como notas nas margens de um caderno meio queimado; os ferreiros que a seguem relatam que o lingote final pesa ligeiramente mais do que o aço que entrou nele.</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>metaaço</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>metametaaço</MetaMetaSteel.label>
+  <MetaMetaSteel.description>Aço dobrado sobre aço dobrado. Cem unidades de aço bruto são consumidas para produzir um único lingote, com a maior parte da massa aparentemente perdida num processo que as notas sobreviventes descrevem apenas como «afinamento». Pedaços de metametaaço zumbem fracamente quando golpeados.</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>metametaaço</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>metametametaaço</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>O estágio mais profundo conhecido da recursão. Mil unidades de aço bruto são sacrificadas por um único lingote acabado; não há dois ferreiros que descrevam o procedimento da mesma maneira, e alguns recusam-se a discuti-lo. O resultado é tão denso que parece beber a luz do fogo.</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>metametametaaço</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>metaacero</MetaSteel.label>
+  <MetaSteel.description>Una alotropía del acero antinaturalmente densa, extraída de diez lingotes ordinarios mediante un procedimiento de forja que ningún metalúrgico vivo comprende del todo. La receta sobrevive solo como notas marginales en un cuaderno medio quemado; los herreros que la siguen informan que el lingote final pesa ligeramente más que el acero que entró en él.</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>metaacero</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>metametaacero</MetaMetaSteel.label>
+  <MetaMetaSteel.description>Acero plegado sobre acero plegado. Se consumen cien unidades de acero crudo para producir un solo lingote, perdiéndose la mayor parte de la masa en un proceso que las notas supervivientes describen únicamente como «adelgazamiento». Las piezas de metametaacero zumban débilmente al ser golpeadas.</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>metametaacero</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>metametametaacero</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>La etapa más profunda conocida de la recursión. Mil unidades de acero crudo se sacrifican por un único lingote terminado; no hay dos herreros que describan el procedimiento de la misma manera, y algunos se niegan a hablar de él. El resultado es tan denso que parece beberse la luz del fuego.</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>metametametaacero</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

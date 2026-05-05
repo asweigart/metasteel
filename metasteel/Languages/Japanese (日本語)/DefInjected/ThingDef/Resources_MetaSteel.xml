@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>メタスチール</MetaSteel.label>
+  <MetaSteel.description>鋼の不自然に高密度な同素体であり、生きている冶金学者の誰も完全には理解していない鍛造手順によって、10個の普通の鋼塊から取り出される。レシピは半ば焼け焦げたノートの欄外注釈としてのみ残っており、それに従う鍛冶屋は、最終的な塊が投入された鋼よりもわずかに重いと報告する。</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>メタスチール</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>メタメタスチール</MetaMetaSteel.label>
+  <MetaMetaSteel.description>折り畳まれた鋼の上にさらに折り畳まれた鋼。一つの塊を生産するために100単位の生鋼が消費され、大部分の質量は残存する記録で「薄化」とのみ表現される過程で失われる。メタメタスチールの破片は打たれるとかすかに唸る。</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>メタメタスチール</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>メタメタメタスチール</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>再帰の最も深い既知の段階。一つの完成した塊のために1000単位の生鋼が犠牲にされる。同じ手順を二人の鍛冶屋が同じように説明することはなく、何人かはそれについて議論することを完全に拒否する。結果は非常に密度が高く、まるで火明かりを飲み込むかのようだ。</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>メタメタメタスチール</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

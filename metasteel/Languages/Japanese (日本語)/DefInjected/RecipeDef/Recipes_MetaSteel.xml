@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>メタスチールを作る</Make_MetaSteel.label>
+  <Make_MetaSteel.description>半ば忘れられた工程によって、10単位の生鋼を1つのメタスチール塊に精錬する。</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>メタスチールを鍛造中。</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>メタメタスチールを作る</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>10個のメタスチール塊を1個のメタメタスチール塊に圧縮する。記録は何をすべきかについては明確だが、実際に何が起こっているかについては曖昧である。</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>メタメタスチールを鍛造中。</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>メタメタメタスチールを作る</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>再帰を最終的な既知の段階まで進める：10個のメタメタスチール塊を1個のメタメタメタスチール塊に折り畳む。ほとんどの鍛冶屋はこれを一度しか試みない。</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>メタメタメタスチールを鍛造中。</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>

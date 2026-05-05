@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>сделать метасталь</Make_MetaSteel.label>
+  <Make_MetaSteel.description>Преобразовать 10 единиц сырой стали в один слиток метастали с помощью полузабытого процесса.</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>Изготовление метастали.</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>сделать метаметасталь</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>Сжать десять слитков метастали в один слиток метаметастали. Записи яснее говорят о том, что нужно делать, чем о том, что на самом деле происходит.</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>Изготовление метаметастали.</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>сделать метаметаметасталь</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>Довести рекурсию до её конечной известной стадии: десять слитков метаметастали сложить в один слиток метаметаметастали. Большинство кузнецов пробуют это лишь однажды.</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>Изготовление метаметаметастали.</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>

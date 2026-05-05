@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>метасталь</MetaSteel.label>
+  <MetaSteel.description>Неестественно плотная аллотропия стали, выкованная из десяти обычных слитков посредством процедуры, которую ни один из ныне живущих металлургов до конца не понимает. Рецепт сохранился лишь в виде заметок на полях полусгоревшей записной книжки; кузнецы, следующие ему, утверждают, что готовый слиток весит чуть больше, чем сталь, ушедшая на него.</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>метасталь</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>метаметасталь</MetaMetaSteel.label>
+  <MetaMetaSteel.description>Сталь, сложенная на сложенной стали. Сто единиц сырой стали уходит на производство одного слитка, причём большая часть массы теряется в процессе, который сохранившиеся записи описывают лишь как «истончение». Куски метаметастали тихо гудят при ударе.</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>метаметасталь</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>метаметаметасталь</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>Глубочайшая известная стадия рекурсии. Тысяча единиц сырой стали приносится в жертву ради одного готового слитка; нет двух кузнецов, описывающих процедуру одинаково, а некоторые вообще отказываются её обсуждать. Результат настолько плотный, что, кажется, поглощает свет огня.</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>метаметаметасталь</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

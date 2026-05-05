@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetaSteel.label>元钢</MetaSteel.label>
+  <MetaSteel.description>一种异常致密的钢同素异形体，由十块普通钢锭通过一种没有任何在世冶金学家完全理解的锻造工艺炼制而成。该配方仅以一本半烧毁笔记本边缘的旁注形式保存下来；遵循它的铁匠们报告说，最终的钢锭重量略大于投入其中的钢。</MetaSteel.description>
+  <MetaSteel.stuffProps.stuffAdjective>元钢</MetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaSteel.label>元元钢</MetaMetaSteel.label>
+  <MetaMetaSteel.description>钢上加钢，再加钢。生产一块锭需要消耗一百单位的原钢，大部分质量在残存笔记中仅描述为"变薄"的过程中损失。元元钢碎片在敲击时会发出轻微的嗡嗡声。</MetaMetaSteel.description>
+  <MetaMetaSteel.stuffProps.stuffAdjective>元元钢</MetaMetaSteel.stuffProps.stuffAdjective>
+
+  <MetaMetaMetaSteel.label>元元元钢</MetaMetaMetaSteel.label>
+  <MetaMetaMetaSteel.description>已知递归的最深阶段。一千单位的原钢被牺牲以换取一块成品锭；没有两位铁匠以相同的方式描述这个过程，有几位完全拒绝讨论它。结果如此致密，似乎能将火光吸入其中。</MetaMetaMetaSteel.description>
+  <MetaMetaMetaSteel.stuffProps.stuffAdjective>元元元钢</MetaMetaMetaSteel.stuffProps.stuffAdjective>
+
+</LanguageData>

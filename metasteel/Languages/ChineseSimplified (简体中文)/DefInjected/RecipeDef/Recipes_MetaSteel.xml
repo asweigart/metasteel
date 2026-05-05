@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>制作元钢</Make_MetaSteel.label>
+  <Make_MetaSteel.description>通过半遗忘的工艺将10个原钢精炼成一块元钢锭。</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>正在锻造元钢。</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>制作元元钢</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>将十块元钢锭压缩成一块元元钢锭。笔记对要做什么的描述比对实际发生什么的描述更清晰。</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>正在锻造元元钢。</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>制作元元元钢</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>将递归推向其最终已知阶段：将十块元元钢锭折叠成一块元元元钢锭。大多数铁匠只会尝试一次。</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>正在锻造元元元钢。</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>

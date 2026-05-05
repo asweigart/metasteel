@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>fabriquer du métacier</Make_MetaSteel.label>
+  <Make_MetaSteel.description>Raffiner 10 unités d'acier brut en un seul lingot de métacier grâce au procédé à demi oublié.</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>Forge de métacier.</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>fabriquer du métamétacier</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>Compresser dix lingots de métacier en un seul lingot de métamétacier. Les notes sont plus claires sur ce qu'il faut faire que sur ce qui se passe réellement.</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>Forge de métamétacier.</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>fabriquer du métamétamétacier</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>Pousser la récursion à son stade final connu : dix lingots de métamétacier pliés en un seul de métamétamétacier. La plupart des forgerons n'essaient cela qu'une seule fois.</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>Forge de métamétamétacier.</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>

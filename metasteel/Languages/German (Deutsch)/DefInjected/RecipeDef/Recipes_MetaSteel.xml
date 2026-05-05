@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>Metastahl herstellen</Make_MetaSteel.label>
+  <Make_MetaSteel.description>10 Einheiten Rohstahl durch das halb vergessene Verfahren zu einem einzigen Barren Metastahl verarbeiten.</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>Schmieden von Metastahl.</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>Metametastahl herstellen</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>Zehn Barren Metastahl zu einem einzigen Barren Metametastahl verdichten. Die Notizen sind klarer darüber, was zu tun ist, als darüber, was tatsächlich geschieht.</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>Schmieden von Metametastahl.</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>Metametametastahl herstellen</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>Die Rekursion auf ihre letzte bekannte Stufe treiben: zehn Barren Metametastahl zu einem einzigen Barren Metametametastahl falten. Die meisten Schmiede versuchen es nur ein einziges Mal.</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>Schmieden von Metametametastahl.</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>

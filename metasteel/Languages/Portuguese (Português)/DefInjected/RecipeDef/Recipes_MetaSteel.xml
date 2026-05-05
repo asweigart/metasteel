@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_MetaSteel.label>fazer metaaço</Make_MetaSteel.label>
+  <Make_MetaSteel.description>Refinar 10 unidades de aço bruto num único lingote de metaaço através do processo meio lembrado.</Make_MetaSteel.description>
+  <Make_MetaSteel.jobString>A forjar metaaço.</Make_MetaSteel.jobString>
+
+  <Make_MetaMetaSteel.label>fazer metametaaço</Make_MetaMetaSteel.label>
+  <Make_MetaMetaSteel.description>Comprimir dez lingotes de metaaço num único lingote de metametaaço. As notas são mais claras sobre o que fazer do que sobre o que realmente está a acontecer.</Make_MetaMetaSteel.description>
+  <Make_MetaMetaSteel.jobString>A forjar metametaaço.</Make_MetaMetaSteel.jobString>
+
+  <Make_MetaMetaMetaSteel.label>fazer metametametaaço</Make_MetaMetaMetaSteel.label>
+  <Make_MetaMetaMetaSteel.description>Levar a recursão à sua etapa final conhecida: dez lingotes de metametaaço dobrados num só de metametametaaço. A maioria dos ferreiros só tenta isso uma vez.</Make_MetaMetaMetaSteel.description>
+  <Make_MetaMetaMetaSteel.jobString>A forjar metametametaaço.</Make_MetaMetaMetaSteel.jobString>
+
+</LanguageData>
