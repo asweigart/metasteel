@@ -10,6 +10,9 @@
     <effectWorking>Smith</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <workAmount>200</workAmount>
+    <skillRequirements>
+      <Crafting>4</Crafting>
+    </skillRequirements>
     <recipeUsers>
       <li>FueledSmithy</li>
       <li>ElectricSmithy</li>
@@ -43,6 +46,9 @@
     <effectWorking>Smith</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <workAmount>200</workAmount>
+    <skillRequirements>
+      <Crafting>8</Crafting>
+    </skillRequirements>
     <recipeUsers>
       <li>FueledSmithy</li>
       <li>ElectricSmithy</li>
@@ -76,6 +82,9 @@
     <effectWorking>Smith</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <workAmount>200</workAmount>
+    <skillRequirements>
+      <Crafting>12</Crafting>
+    </skillRequirements>
     <recipeUsers>
       <li>FueledSmithy</li>
       <li>ElectricSmithy</li>

@@ -16,7 +16,7 @@
     <tradeability>Sellable</tradeability>
     <statBases>
       <Flammability>0</Flammability>
-      <DeteriorationRate>2.0</DeteriorationRate>
+      <DeteriorationRate>0</DeteriorationRate>
       <Beauty>-4</Beauty>
     </statBases>
     <stuffProps>
@@ -41,9 +41,8 @@
     <label>metasteel</label>
     <description>An unnaturally dense allotrope of steel, coaxed out of ten ordinary ingots through a forging procedure that no living metallurgist fully understands. The recipe survives only as marginalia in a half-burnt notebook; smiths who follow it report that the final ingot weighs slightly more than the steel that went into it.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/Steel</texPath>
-      <graphicClass>Graphic_StackCount</graphicClass>
-      <color>(220, 235, 250)</color>
+      <texPath>Things/Item/Resource/MetaSteel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>3.6</MarketValue>
@@ -51,7 +50,7 @@
     </statBases>
     <stuffProps>
       <stuffAdjective>metasteel</stuffAdjective>
-      <color>(220, 235, 250)</color>
+      <color>(175, 185, 200)</color>
       <statFactors>
         <MaxHitPoints>2</MaxHitPoints>
         <MarketValue>2</MarketValue>
@@ -71,9 +70,8 @@
     <label>metametasteel</label>
     <description>Steel folded upon folded steel. A hundred units of raw steel are consumed to produce a single ingot, most of the mass apparently lost to a process the surviving notes describe only as "thinning." Pieces of metametasteel hum faintly when struck.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/Steel</texPath>
-      <graphicClass>Graphic_StackCount</graphicClass>
-      <color>(195, 225, 255)</color>
+      <texPath>Things/Item/Resource/MetaMetaSteel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>7.2</MarketValue>
@@ -81,7 +79,7 @@
     </statBases>
     <stuffProps>
       <stuffAdjective>metametasteel</stuffAdjective>
-      <color>(195, 225, 255)</color>
+      <color>(210, 220, 232)</color>
       <statFactors>
         <MaxHitPoints>4</MaxHitPoints>
         <MarketValue>4</MarketValue>
@@ -101,9 +99,8 @@
     <label>metametametasteel</label>
     <description>The deepest known stage of the recursion. A thousand units of raw steel are sacrificed for one finished ingot; no two smiths describe the procedure the same way, and several refuse to discuss it at all. The result is so dense it seems to drink in the firelight.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/Steel</texPath>
-      <graphicClass>Graphic_StackCount</graphicClass>
-      <color>(165, 215, 255)</color>
+      <texPath>Things/Item/Resource/MetaMetaMetaSteel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>14.4</MarketValue>
@@ -111,7 +108,7 @@
     </statBases>
     <stuffProps>
       <stuffAdjective>metametametasteel</stuffAdjective>
-      <color>(165, 215, 255)</color>
+      <color>(240, 244, 250)</color>
       <statFactors>
         <MaxHitPoints>8</MaxHitPoints>
         <MarketValue>8</MarketValue>
